@@ -1,0 +1,3 @@
+[submodule "usbdrv"]
+	path = usbdrv
+	url = https://github.com/hryamzik/usbdrv.git
